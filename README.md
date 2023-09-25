@@ -7,4 +7,4 @@ A portfolio project on PostgreSQL which is done by importing a database of a mus
 
 Schema- Music Store Database  
 * drawSQL https://drawsql.app/teams/my-creations/diagrams/music-database
-https://github.com/Adarsh-Acharya101/Music_Database_Analysis/blob/main/drawSQL-music-database.png
+* https://github.com/Adarsh-Acharya101/Music_Database_Analysis/blob/main/drawSQL-music-database.png
